@@ -1,5 +1,4 @@
 'use client';
-
 import { NextUIProvider } from '@nextui-org/react';
 
 interface BaseProvidersContextProps extends React.PropsWithChildren {}
